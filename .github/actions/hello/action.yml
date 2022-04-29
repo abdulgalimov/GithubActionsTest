@@ -3,7 +3,7 @@ description: Greet someone
 
 runs:
   using: node16
-  main: abdulgalimov/GithubActionsTest/dist/index.js
+  main: abdulgalimov/GithubActionsTest@dist/index.js
 
 inputs:
   Name:
